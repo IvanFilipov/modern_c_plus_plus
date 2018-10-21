@@ -5,6 +5,6 @@ Exploring the new standards with some colleagues from FMI<br>
 *and the target audience are students that just have made their first steps with programming in C++*
 *(taken the courses IP, OOP and still learning DSA)*
 
-[topics]()
+[topics](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/schedule.md)
 
  *all examples are compiled using GNU g++ with flag -std=c11 (14, 17)
