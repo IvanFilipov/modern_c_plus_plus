@@ -9,7 +9,8 @@ recap :
 
 - special member functions and their rules (G4)
 
-new : 
+new :
+- lvalue and rvalue
 - move semantics
 - smart pointers
 - initializing objects, initialize-list 
