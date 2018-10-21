@@ -6,3 +6,5 @@ Exploring the new standards with some colleagues from FMI<br>
 *(taken the courses IP, OOP and still learning DSA)*
 
 [topics]()
+
+ * all examples are compiled using GNU g++ with flag -std=c11 (14, 17)
