@@ -1,1 +1,3 @@
-# modern_c_plus_plus
+# C++ 11/14/17
+Exploring the new standards with some colleagues from FMI
+[topics]()
