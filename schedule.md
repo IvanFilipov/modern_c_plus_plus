@@ -3,16 +3,15 @@
 ### Advanced OOP
 
 recap :
+- resource managment
 
 - RAII
 
-- special member functions (G4)
+- special member functions and their rules (G4)
 
-
+new : 
 - move semantics
-
 - smart pointers
-
 - initializing objects, initialize-list 
 
 
