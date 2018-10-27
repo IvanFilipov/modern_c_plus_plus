@@ -1,4 +1,0 @@
-books : Effective Modern C++ by Scott Mayers 2015
-
-links :  cpp-reference : https://en.cppreference.com/w/
-         cpp-advanced course at FMI : http://sofiacpp.github.io/advanced-cpp/
