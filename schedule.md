@@ -4,13 +4,12 @@
 
 recap :
 - resource managment
-
 - RAII
-
 - special member functions and their rules (G4)
 
 new :
 - lvalue and rvalue
+- RVO
 - move semantics
 - smart pointers
 - initializing objects, initialize-list 
