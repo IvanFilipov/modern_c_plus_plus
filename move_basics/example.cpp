@@ -1,6 +1,6 @@
 /*
  * Example usage of move semantics and RVO ( return value optimization )
- * This file is part of the "Modern c plus plus" course. FMI 2018
+ * This file is part of the "Modern c plus plus" course. FMI 2018/19
  *
  * Author : Ivan Filipov	
  */

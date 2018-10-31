@@ -1,3 +1,10 @@
+/*
+ * Pretty simple class for usage where "whaterver class" is meant
+ * This file is part of the "Modern c plus plus" course. FMI 2018/19
+ *
+ * Author : Ivan Filipov	
+ */
+
 #pragma once
 
 //pretty simple class for use where :

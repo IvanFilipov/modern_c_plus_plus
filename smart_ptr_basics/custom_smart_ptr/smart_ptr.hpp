@@ -1,22 +1,27 @@
+/*
+ * A simple version of the old C++ smart pointer ( auto_ptr )
+ * This file is part of the "Modern c plus plus" course. FMI 2018/19
+ *
+ * Author : Ivan Filipov	
+ */
+
 #pragma once
 
-//a simple version of the old C++ smart pointer - 
-//auto_ptr, which is deprecated since C++11 and
-//fully removed after C++17
+// !!! auto_ptr is deprecated since C++11 
+// and fully removed after C++17
 
 //originally there wasn't standard support of arrays
 //for example new [] ...
 
-
 //nowadays std::unique_ptr, std::shared_ptr and 
-//std::weak_ptr are used
+//std::weak_ptr are used, see more in the next example
 template<typename T>
 class smart_ptr {
 
 private:
 
 	T* raw_ptr;
-
+	
 public:
 
 	explicit smart_ptr(T* p = nullptr);
@@ -25,10 +30,11 @@ public:
 	~smart_ptr();
 
 public :
-
+	// remove ownership
 	T* release();
+	// set new ownership, or nullptr
 	void reset(T* p = nullptr);
-	
+	// access operators
 	T& operator*() const;
 	T* operator->() const;
 };
@@ -41,7 +47,7 @@ smart_ptr<T>::smart_ptr(T* p) : raw_ptr(p) {
 template<typename T>
 smart_ptr<T>::smart_ptr(smart_ptr<T>& other) : raw_ptr(other.release()) {
 	
-	//gets the ownership of the resource from the other object
+	// gets the ownership of the resource from the other object
 }
 
 template<typename T>
@@ -54,7 +60,7 @@ template<typename T>
 smart_ptr<T>& smart_ptr<T>::operator=(smart_ptr<T>& other) {
 
 	if (this != &other)
-		reset(other.release()); //frees our resource and gets other's
+		reset(other.release()); // frees our resource and gets other's
 
 	return *this;
 }
@@ -74,7 +80,7 @@ T* smart_ptr<T>::operator->() const {
 template<typename T>
 T* smart_ptr<T>::release() {
 
-	//transfer the ownership
+	// transfer the ownership
 	T* old = raw_ptr;
 	raw_ptr = nullptr;
 	
@@ -83,9 +89,9 @@ T* smart_ptr<T>::release() {
 
 template<typename T>
 void smart_ptr<T>::reset(T* p) {
-
+	// free the resource and get the new one
 	if (p != raw_ptr) {
-
+	
 		delete raw_ptr;
 		raw_ptr = p;
 	}
