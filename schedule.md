@@ -20,6 +20,7 @@ new :
 
 recap :
 - some special key words ( finale, override ... )
+- c++ sytle cast and their use cases
 
 new : 
 - more key words
