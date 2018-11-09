@@ -19,16 +19,16 @@ new :
 ### Syntax sugers, templates and lambdas
 
 recap :
-- some special key words ( finale, override ... )
+- some special key words ( default, delete ( in classes ), final, override ... )
 - c++ sytle cast and their use cases
+- strings, stringstreams
 
-new : 
-- more key words
+new :
 - type deduction ( auto, decltype )
-- more about templates
-- templates metaprogramming
+- more about templates, variadic templates
+- template metaprogramming
+- constexpr
 - lambda functions
-
 
 ## Week 3
 
