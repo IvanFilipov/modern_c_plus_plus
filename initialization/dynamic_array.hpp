@@ -1,5 +1,5 @@
 /*
- * Example implementation of custom dynamic array ( focus on move semantics, ways of initialization )
+ * Example implementation of custom dynamic array (focus on move semantics, ways of initialization).
  * This file is part of the "Modern c plus plus" course. FMI 2018/19
  *
  * Author : Ivan Filipov	
@@ -124,7 +124,7 @@ dynamic_array<T>::dynamic_array(size_t size) :
 template<typename T>
 dynamic_array<T>::dynamic_array(size_t size, const T& default_value) : dynamic_array(size) {
 	
-	for(size_t i = 0; i < size; i++)
+	for (size_t i = 0; i < size; i++)
 		data_ptr[i] = default_value;
 	cur_size = size;
 }
@@ -134,9 +134,9 @@ dynamic_array<T>::dynamic_array(std::initializer_list<T> ilist) : dynamic_array(
 	
 	is_sorted = true;
 	size_t i = 0;
-	for(const T& el : ilist) {
+	for (const T& el : ilist) {
 		data_ptr[i] = el;
-		if(i > 0 && data_ptr[i] > data_ptr[i - 1])
+		if (i > 0 && data_ptr[i] > data_ptr[i - 1])
 			is_sorted = false;
 		++i;
 	}
@@ -226,7 +226,7 @@ void dynamic_array<T>::push_back(const T& new_el) {
 		return;
 	}
 
-	if(data_ptr[cur_size - 2] > data_ptr[cur_size - 1])
+	if (data_ptr[cur_size - 2] > data_ptr[cur_size - 1])
 		is_sorted = false;
 }
 
@@ -285,7 +285,7 @@ void dynamic_array<T>::remove_at(size_t index) {
 	}
 
 	//else ..
-	for(size_t i = index; i < cur_size - 1; i++)
+	for (size_t i = index; i < cur_size - 1; i++)
 		std::swap(data_ptr[i], data_ptr[i+1]);
 
 	pop_back();
@@ -362,7 +362,7 @@ int dynamic_array<T>::binary_search(const T& el, int left, int right) const {
 	if (data_ptr[med] > el)
 		return binary_search(el, left, med - 1);
 
-	if(data_ptr[med] < el)
+	if (data_ptr[med] < el)
 		return binary_search(el, med + 1, right);
 		
 	//won't reach this line, but added just to stop compiler's complaining
@@ -394,20 +394,20 @@ void dynamic_array<T>::print_elems(std::ostream& os) const {
 	
 	os << "content : ";
 	
-	if(cur_size == 0) {
+	if (cur_size == 0) {
 		
 		os << "{}" << std::endl;	
 		return;
 	}
 	
-	if(cur_size == 1) {
+	if (cur_size == 1) {
 		
 		os << '{' << data_ptr[0] << '}' << std::endl;
 		return;
 	}
 	
 	os << "{ ";
-	for(size_t i = 0; i < cur_size - 1; i++)
+	for (size_t i = 0; i < cur_size - 1; i++)
 		os << data_ptr[i] << ", ";
 		
 	os << data_ptr[cur_size - 1] << " }" << std::endl;

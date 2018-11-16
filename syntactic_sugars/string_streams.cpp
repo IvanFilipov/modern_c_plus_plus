@@ -67,7 +67,7 @@ int main() {
 	
 	std::cout << "string by string reading from string stream :\n";
 	std::string sl;
-	while(ss) {
+	while (ss) {
 		
 		ss >> sl;
 		if(ss) std::cout << sl << std::endl;

@@ -1,5 +1,5 @@
 /*
- * Example usage of a custom dynamic array initializations
+ * Example usage of a custom dynamic array initializations.
  * This file is part of the "Modern c plus plus" course. FMI 2018/19
  *
  * Author : Ivan Filipov	

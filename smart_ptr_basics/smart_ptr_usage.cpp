@@ -71,13 +71,13 @@ int main() {
 		{
 			std::shared_ptr<int> s = std::make_shared<int>(42);
 			w = s;
-			if(!w.expired()) { 
+			if (!w.expired()) { 
 				std::cout << "the weak one still points to the resource!\n"
 					<< "the resource is pointed by " << w.use_count() << "shared pointers\n";
 			}
 		}
 		
-		if(w.expired()) std::cout << "the weak one is dangling!\n";
+		if (w.expired()) std::cout << "the weak one is dangling!\n";
 	}
 	
 	return 0;
