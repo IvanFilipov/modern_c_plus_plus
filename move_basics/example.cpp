@@ -5,7 +5,7 @@
  * Author : Ivan Filipov	
  */
 
-#include<iostream>
+#include <iostream>
 #include "cstring.h"
 
 // GCC flag to stop the RVO
