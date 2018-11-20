@@ -34,10 +34,14 @@ new :
 
 ### GIT + STL
 
+tools : 
+- git + some GUI + GitHub
+
 recap :
 - data structures learnt during DSA
 - iterators
 - different loops
+
 new :
 - STL basic data structures and their representations
 - std::array, std::vector, std::list, std::forward_list, std::queue, std::deque, std::stack
@@ -61,7 +65,7 @@ new :
 
 ### Topics included summary
 
-templates, auto, range-based loops, ~~move semantics, smart pointers~~, lambda expressions,
+~~templates, auto~~, range-based loops, ~~move semantics, smart pointers~~, ~~lambda expressions,~~
 multi threading, concurrency, networking, STL data structures, STL algorithms,
 some advanced data structures and more.
 
