@@ -32,13 +32,16 @@ new :
 
 ## Week 3
 
-### STL data structures and algorithms
+### GIT + STL
 
 recap :
 - data structures learnt during DSA
 - iterators
 - different loops
-
+new :
+- STL basic data structures and their representations
+- std::array, std::vector, std::list, std::forward_list, std::queue, std::deque, std::stack
+- usage and some algorithms
 ## Week 4
 
 ### Advanced data structures
