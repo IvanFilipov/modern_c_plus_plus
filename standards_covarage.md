@@ -43,6 +43,7 @@
 * std::chrono :heavy_check_mark:
 * tuples :warning:
 * std::array :heavy_check_mark:
+* std::forward_list :heavy_check_mark:
 * unordered containers :warning:
 * std::make_shared :heavy_check_mark:
 
