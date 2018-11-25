@@ -50,6 +50,9 @@ new :
 
 ### Advanced data structures
 
+new :
+- n-tuples : std::pair, std::tuple, std::tie
+
 ## Week 5
 
 ### System programming and multithreading?
