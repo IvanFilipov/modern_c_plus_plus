@@ -16,7 +16,7 @@ T adder(const T& v) {
 // recursive variadic template, ... syntax is used
 // for many arguments or zero from same type
 template<typename T, typename... Args>
-T adder(const T& first,const Args&... args) { // Args... is called parameter pack
+T adder(const T& first, const Args&... args) { // Args... is called parameter pack
 	// sizeof... operator gives the count of arguments
 	std::cout << "at the pack : " << sizeof...(Args) << std::endl;
 	return first + adder(args...); // calling the same function with one parameter less
