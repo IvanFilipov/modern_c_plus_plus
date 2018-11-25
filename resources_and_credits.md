@@ -4,6 +4,7 @@ links :
 * [cpp-reference](https://en.cppreference.com/w/)
 * [cpp-advanced course at FMI](http://sofiacpp.github.io/advanced-cpp)
 * [boost](https://www.boost.org/)
+* [modern C++ features](https://github.com/AnthonyCalandra/modern-cpp-features)
 
 week 1 :
 
