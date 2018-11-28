@@ -2,12 +2,12 @@
 
 ### Advanced OOP
 
-recap :
+recap:
 - resource managment
 - RAII
 - special member functions and their rules (G4)
 
-new :
+new:
 - lvalue and rvalue
 - RVO
 - move semantics
@@ -18,12 +18,12 @@ new :
 
 ### Syntax sugers, templates and lambdas
 
-recap :
+recap:
 - some special key words ( default, delete ( in classes ), final, override ... )
 - c++ sytle cast and their use cases
 - strings, stringstreams
 
-new :
+new:
 - type deduction ( auto, decltype )
 - more about templates, variadic templates
 - template metaprogramming
@@ -34,15 +34,15 @@ new :
 
 ### GIT + STL
 
-tools : 
+tools: 
 - git + some GUI + GitHub
 
-recap :
+recap:
 - data structures learnt during DSA
 - iterators
 - different loops
 
-new :
+new:
 - STL basic data structures and their representations
 - std::array, std::vector, std::list, std::forward_list, std::queue, std::deque, std::stack
 - usage and some algorithms
@@ -50,8 +50,15 @@ new :
 
 ### Advanced data structures
 
+recap:
+- trees, blanaced trees
+- hash functions, hash tables
+
 new :
 - n-tuples : std::pair, std::tuple, std::tie
+- std::set, std::map, std::unordered_set, std::unordered_map
+- thier _multi_ versions : std::multimap, std::multimap
+- overview of *\<algorithm\>*
 
 ## Week 5
 
