@@ -44,7 +44,10 @@ recap:
 
 new:
 - STL basic data structures and their representations
-- std::array, std::vector, std::list, std::forward_list, std::queue, std::deque, std::stack
+- sequence containers:
+    - std::array, std::vector, std::deque, std::list, std::forward_list
+- container adaptors:
+    - std::queue, std::stack, std::priority_queue
 - usage and some algorithms
 ## Week 4
 
@@ -55,10 +58,14 @@ recap:
 - hash functions, hash tables
 
 new :
-- n-tuples : std::pair, std::tuple, std::tie
-- std::set, std::map, std::unordered_set, std::unordered_map
-- thier _multi_ versions : std::multimap, std::multimap
+- n-tuples:
+    - std::pair, std::tuple, std::tie
+- associative containers:
+    - std::set, std::map, std::unordered_set, std::unordered_map
+- thier _multi_ versions : std::multimap, std::multiset, std::unordered_multiset, std::unordered_multimap
 - overview of *\<algorithm\>*
+- regular expressions:
+    - std::regex
 
 ## Week 5
 
