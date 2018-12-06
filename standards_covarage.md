@@ -12,13 +12,13 @@
 * auto :heavy_check_mark:
 * lambda expressions :heavy_check_mark:
 * decltype :heavy_check_mark:
-* template aliases :warning:
+* template aliases :heavy_check_mark:
 * nullptr :heavy_check_mark:
 * strongly-typed enums :heavy_check_mark:
 * attributes :x:
 * constexpr :heavy_check_mark:
 * delegating constructors :heavy_check_mark:
-* user-defined literals :warning:
+* user-defined literals :heavy_check_mark:
 * explicit virtual overrides :heavy_check_mark:
 * final specifier :heavy_check_mark:
 * default special class functions :heavy_check_mark:
@@ -38,13 +38,13 @@
 * std::forward :warning:
 * std::thread :warning:
 * std::to_string :heavy_check_mark:
-* type traits :warning:
+* type traits :heavy_check_mark:
 * smart pointers (std::unique_ptr, std::shared_ptr, std::weak_ptr) :heavy_check_mark:
 * std::chrono :heavy_check_mark:
-* tuples :warning:
+* tuples :heavy_check_mark:
 * std::array :heavy_check_mark:
 * std::forward_list :heavy_check_mark:
-* unordered containers :warning:
+* unordered containers :heavy_check_mark:
 * std::make_shared :heavy_check_mark:
 
 ### C++14
