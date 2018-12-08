@@ -8,7 +8,7 @@
 * rvalue references  :heavy_check_mark:
 * variadic templates :heavy_check_mark:
 * initializer lists  :heavy_check_mark:
-* static assertions  :warning:
+* static assertions  :heavy_check_mark:
 * auto :heavy_check_mark:
 * lambda expressions :heavy_check_mark:
 * decltype :heavy_check_mark:
