@@ -19,16 +19,16 @@
 * [constexpr](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/constexpr.cpp) :heavy_check_mark:
 * [delegating constructors](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization) :heavy_check_mark:
 * [user-defined literals](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/user_literals.cpp) :heavy_check_mark:
-* explicit virtual overrides :heavy_check_mark:
-* final specifier :heavy_check_mark:
-* default special class functions :heavy_check_mark:
-* deleted special class functions :heavy_check_mark:
+* [explicit virtual overrides](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
+* [final specifier](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
+* [default special class functions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
+* [deleted special class functions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp):heavy_check_mark:
 * range-based for loops :heavy_check_mark:
 * [special member functions for move semantics](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization) :heavy_check_mark:
 * [converting constructors](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization) :heavy_check_mark:
-* explicit conversion functions :heavy_check_mark:
-* inline namespaces :heavy_check_mark:
-* non-static data member initializers :heavy_check_mark:
+* [explicit conversion functions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
+* [inline namespaces](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
+* [non-static data member initializers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
 * right angle brackets :heavy_check_mark:
 
 
