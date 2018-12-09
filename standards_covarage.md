@@ -39,8 +39,8 @@
 * std::thread :warning:
 * [std::to_string](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2Bbasics/string_streams.cpp) :heavy_check_mark:
 * type traits :heavy_check_mark:
-* [smart pointers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) (std::unique_ptr, std::shared_ptr, std::weak_ptr) :heavy_check_mark:
-* std::chrono :heavy_check_mark:
+* [smart pointers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
+* [std::chrono](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/chrono.hpp) :heavy_check_mark:
 * tuples :heavy_check_mark:
 * std::array :heavy_check_mark:
 * std::forward_list :heavy_check_mark:
@@ -51,7 +51,7 @@
 
 #### Language Features :
 
-* binary literals :heavy_check_mark:
+* [binary literals](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B14/sequences_binary_literal.cpp) :heavy_check_mark:
 * generic lambda expressions :warning:
 * lambda capture initializers :warning:
 * [return type deduction](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp) :heavy_check_mark:
@@ -62,8 +62,8 @@
 
 #### Library Features :
 
-* user-defined literals for standard library types :warning:
-* compile-time integer sequences :warning:
+* [user-defined literals for standard library types](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/chrono.hpp) :heavy_check_mark:
+* [compile-time integer sequences](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B14/sequences_binary_literal.cpp) :heavy_check_mark:
 * [std::make_unique](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
 
 ### C++17
