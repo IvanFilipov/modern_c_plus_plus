@@ -31,15 +31,6 @@ constexpr int pow11(int base, int exp) noexcept {
 	return ((exp == 0) ? 1 : base * pow11(base, exp - 1));
 }
 
-// C++14 style
-constexpr int pow14(int base, int exp) noexcept {
-	
-	auto res = 1;
-	for(int i = 0; i < exp; i++)
-		res *= base;
-	
-	return res;
-}
 // self-explanatory 
 int dummy_fnc() {
 	
@@ -68,17 +59,23 @@ int main() {
 			  << ((is_prime_func(23)) ? "is prime!" : "is compose!") // compile time
 			  << std::endl;
 
-	constexpr int b = 2, e11 = 11, e14 = 14;
+	constexpr int b = 2, e11 = 11;
+	// check for assertion during compile time, when parameters are
+	// all constant expressions
+	static_assert(b == 2 && e11 == 11, "base not 2, exp not 11");
+	
 	constexpr int pow11res = pow11(b, e11); // ok known during compile time
+	static_assert(pow11res == 2048, "2^11 != 2018");
+	
 	std::cout << "pow11( " << b << ", " << e11 << " ) = "
 			  << pow11res << std::endl;
-	
-	std::cout << "pow14( " << b << ", " << e14 << " ) = "
-			  << pow14(b, e14) << std::endl; // using compile time version
 			  
 	int b_run = 2, e_run = 13;
-	std::cout << "pow14( " << b_run << ", " << e_run << " ) = "
-			  << pow14(b_run, e_run); // using run time version
+	int pow11run = pow11(b_run, e_run); // using run time version
+	
+	// static_assert(pow11run == 8192, "2^13 != 8192"); // error pow11run is not known during compile time
+	std::cout << "pow11( " << b_run << ", " << e_run << " ) = "
+			  << pow11(b_run, e_run); 
 	
 	return 0;
 }
