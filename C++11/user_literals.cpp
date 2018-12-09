@@ -1,3 +1,9 @@
+/*
+ * Example usage of user defined literals.
+ * This file is part of the "Modern c plus plus" course. FMI 2018/19
+ *
+ * Author : Ivan Filipov	
+ */
 
 #include <iostream> // std::cout, std::endl
 #include <cmath>    // std::llround
