@@ -4,28 +4,28 @@
 
 #### Language Features :
 
-* move semantics     :heavy_check_mark:
-* rvalue references  :heavy_check_mark:
-* variadic templates :heavy_check_mark:
-* initializer lists  :heavy_check_mark:
-* static assertions  :heavy_check_mark:
-* auto :heavy_check_mark:
-* lambda expressions :heavy_check_mark:
-* decltype :heavy_check_mark:
+* [move semantics](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/move_basics)     :heavy_check_mark:
+* [rvalue references](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/move_basics)  :heavy_check_mark:
+* [variadic templates](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/variadic_templates.cpp) :heavy_check_mark:
+* [initializer lists](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization)  :heavy_check_mark:
+* [static assertions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/constexpr.cpp)  :heavy_check_mark:
+* [auto](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp) :heavy_check_mark:
+* [lambda expressions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/lambdas.cpp) :heavy_check_mark:
+* [decltype](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp) :heavy_check_mark:
 * template aliases :heavy_check_mark:
-* nullptr :heavy_check_mark:
-* strongly-typed enums :heavy_check_mark:
+* [nullptr](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/custom_smart_ptr/smart_ptr.hpp) :heavy_check_mark:
+* [strongly-typed enums](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/enum_classes.cpp) :heavy_check_mark:
 * attributes :x:
-* constexpr :heavy_check_mark:
-* delegating constructors :heavy_check_mark:
-* user-defined literals :heavy_check_mark:
+* [constexpr](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/constexpr.cpp) :heavy_check_mark:
+* [delegating constructors](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization) :heavy_check_mark:
+* [user-defined literals](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/user_literals.cpp) :heavy_check_mark:
 * explicit virtual overrides :heavy_check_mark:
 * final specifier :heavy_check_mark:
 * default special class functions :heavy_check_mark:
 * deleted special class functions :heavy_check_mark:
 * range-based for loops :heavy_check_mark:
-* special member functions for move semantics :heavy_check_mark:
-* converting constructors :heavy_check_mark:
+* [special member functions for move semantics](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization) :heavy_check_mark:
+* [converting constructors](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization) :heavy_check_mark:
 * explicit conversion functions :heavy_check_mark:
 * inline namespaces :heavy_check_mark:
 * non-static data member initializers :heavy_check_mark:
@@ -34,18 +34,18 @@
 
 #### Library Features :
 
-* std::move :heavy_check_mark:
+* [std::move](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/move_basics) :heavy_check_mark:
 * std::forward :warning:
 * std::thread :warning:
-* std::to_string :heavy_check_mark:
+* [std::to_string](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2Bbasics/string_streams.cpp) :heavy_check_mark:
 * type traits :heavy_check_mark:
-* smart pointers (std::unique_ptr, std::shared_ptr, std::weak_ptr) :heavy_check_mark:
+* [smart pointers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) (std::unique_ptr, std::shared_ptr, std::weak_ptr) :heavy_check_mark:
 * std::chrono :heavy_check_mark:
 * tuples :heavy_check_mark:
 * std::array :heavy_check_mark:
 * std::forward_list :heavy_check_mark:
 * unordered containers :heavy_check_mark:
-* std::make_shared :heavy_check_mark:
+* [std::make_shared](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
 
 ### C++14
 
@@ -54,9 +54,9 @@
 * binary literals :heavy_check_mark:
 * generic lambda expressions :warning:
 * lambda capture initializers :warning:
-* return type deduction :heavy_check_mark:
-* decltype(auto) :heavy_check_mark:
-* relaxing constraints on constexpr functions :heavy_check_mark:
+* [return type deduction](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp) :heavy_check_mark:
+* [decltype(auto)](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp):heavy_check_mark:
+* [relaxing constraints on constexpr functions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B14/constexpr.cpp) :heavy_check_mark:
 * variable templates :warning:
 
 
@@ -64,7 +64,7 @@
 
 * user-defined literals for standard library types :warning:
 * compile-time integer sequences :warning:
-* std::make_unique :heavy_check_mark:
+* [std::make_unique](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
 
 ### C++17
 
