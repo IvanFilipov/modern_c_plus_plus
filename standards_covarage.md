@@ -41,7 +41,7 @@
 * type traits :heavy_check_mark:
 * [smart pointers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
 * [std::chrono](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/chrono.hpp) :heavy_check_mark:
-* tuples :heavy_check_mark:
+* [tuples](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/n_tuple.cpp) :heavy_check_mark:
 * std::array :heavy_check_mark:
 * std::forward_list :heavy_check_mark:
 * unordered containers :heavy_check_mark:
