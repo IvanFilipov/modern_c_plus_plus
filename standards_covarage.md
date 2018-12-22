@@ -30,6 +30,7 @@
 * [inline namespaces](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
 * [non-static data member initializers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
 * right angle brackets :heavy_check_mark:
+* regular expressions :heavy_check_mark:
 
 
 #### Library Features :
@@ -46,6 +47,7 @@
 * std::forward_list :heavy_check_mark:
 * unordered containers :heavy_check_mark:
 * [std::make_shared](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
+* std::regex :heavy_check_mark:
 
 ### C++14
 
