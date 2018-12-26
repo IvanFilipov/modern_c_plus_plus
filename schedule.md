@@ -69,20 +69,34 @@ new :
 
 ## Week 5
 
-### System programming and multithreading?
+### Full standards covarage
+_around 3 hours_
+* some more stuff from C++14
+* new things from C++17
+* libraries and API design
+* error handling
+* maybe a bit more for advanced data structures...
 
 ## Week 6
+_around 5 hours_
+### System programming and multithreading
 
-### Networking and GUI?
+* everything about the hardware (but not in deep details)
+* everything about OS-es
+* parallel and multithreading stuff (basics)
 
-
-
-
+## Week 7
+_it will take at least 6 hours..._
+* network in basics
+* socket based C example
+* DB basics
+* example with HTTP server in C++, talking with DB and Web UI
+* example with openCV - creating an real time video chat
 
 
 ### Topics included summary
 
-~~templates, auto~~, range-based loops, ~~move semantics, smart pointers~~, ~~lambda expressions,~~
-multi threading, concurrency, networking, STL data structures, STL algorithms,
-some advanced data structures and more.
+~~templates, auto~~,~~range-based loops~~, ~~move semantics, smart pointers~~, ~~lambda expressions,~~
+multi threading, concurrency, networking, ~~STL data structures, STL algorithms,
+some advanced data structures and more~~.
 
