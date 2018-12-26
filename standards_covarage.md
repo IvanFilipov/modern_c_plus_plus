@@ -12,7 +12,7 @@
 * [auto](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp) :heavy_check_mark:
 * [lambda expressions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/lambdas.cpp) :heavy_check_mark:
 * [decltype](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp) :heavy_check_mark:
-* template aliases :heavy_check_mark:
+* [template aliases](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/associative_containers.cpp) :heavy_check_mark:
 * [nullptr](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/custom_smart_ptr/smart_ptr.hpp) :heavy_check_mark:
 * [strongly-typed enums](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/enum_classes.cpp) :heavy_check_mark:
 * attributes :x:
@@ -23,13 +23,13 @@
 * [final specifier](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
 * [default special class functions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
 * [deleted special class functions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp):heavy_check_mark:
-* range-based for loops :heavy_check_mark:
+* [range-based for loops](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/associative_containers.cpp) :heavy_check_mark:
 * [special member functions for move semantics](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization) :heavy_check_mark:
 * [converting constructors](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/initialization) :heavy_check_mark:
 * [explicit conversion functions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
 * [inline namespaces](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
 * [non-static data member initializers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/oop_syntactic_sugars.cpp) :heavy_check_mark:
-* right angle brackets :heavy_check_mark:
+* [right angle brackets](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/associative_containers.cpp) :heavy_check_mark:
 * [regular expressions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/regex_iterate_matches.cpp) :heavy_check_mark:
 
 
@@ -45,7 +45,7 @@
 * [tuples](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/n_tuple.cpp) :heavy_check_mark:
 * std::array :heavy_check_mark:
 * std::forward_list :heavy_check_mark:
-* unordered containers :heavy_check_mark:
+* [unordered containers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/associative_containers.cpp) :heavy_check_mark:
 * [std::make_shared](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
 * [std::regex](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/regex_grep.cpp) :heavy_check_mark:
 
