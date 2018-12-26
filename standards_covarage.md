@@ -47,7 +47,7 @@
 * std::forward_list :heavy_check_mark:
 * unordered containers :heavy_check_mark:
 * [std::make_shared](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
-* std::regex :heavy_check_mark:
+* [std::regex](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/regex_grep.cpp) :heavy_check_mark:
 
 ### C++14
 
