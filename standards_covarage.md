@@ -78,7 +78,7 @@
 * new rules for auto deduction from braced-init-list :warning:
 * constexpr lambda :warning:
 * lambda capture this by value :warning:
-* inline variables :x:
+* inline variables :warning:
 * nested namespaces :x:
 * structured bindings :warning:
 * selection statements with initializer :x:
