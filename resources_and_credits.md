@@ -2,6 +2,7 @@ books : Effective Modern C++ by Scott Mayers 2015
 
 links :  
 * [cpp-reference](https://en.cppreference.com/w/)
+* [compilers' support](https://en.cppreference.com/w/cpp/compiler_support)
 * [cpp-advanced course at FMI](http://sofiacpp.github.io/advanced-cpp)
 * [boost](https://www.boost.org/)
 * [modern C++ features](https://github.com/AnthonyCalandra/modern-cpp-features)
