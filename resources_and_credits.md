@@ -29,5 +29,5 @@ week 3:
 * [Quora question: Why should I use Git?](https://www.quora.com/What-is-git-and-why-should-I-use-it)
 
 week 5:
-* [Static Libraries and Dynamic Libraries] (https://xiaoyuliu.github.io/2018/03/19/compare-static-and-dynamic-library/)
+* [Static Libraries and Dynamic Libraries](https://xiaoyuliu.github.io/2018/03/19/compare-static-and-dynamic-library/)
 * [C++14](https://isocpp.org/wiki/faq/cpp14-language)
