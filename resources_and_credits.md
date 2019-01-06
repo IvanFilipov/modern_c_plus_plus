@@ -8,17 +8,17 @@ links :
 * [modern C++ features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [left-leaning RB tree](http://www.cs.princeton.edu/~rs/talks/LLRB/RedBlack.pdf?fbclid=IwAR0i7KMRRVQJqXL8aRORCepeeCUbYht08rmPFXVQY7UmSFTGaE2qrTDbQT0)
 
-week 1 :
+week 1:
 
 * [what NOT to do with smart pointers](http://www.acodersjourney.com/2016/05/top-10-dumb-mistakes-avoid-c-11-smart-pointers/)
 * [RVO vs move](https://www.ibm.com/developerworks/community/blogs/5894415f-be62-4bc0-81c5-3956e82276f3/entry/RVO_V_S_std_move?lang=en)
 * [reference counting](https://mortoray.com/2012/01/08/what-is-reference-counting/)
 
-week 2 :
+week 2:
 
 * [compile-time game](https://jguegant.github.io/blogs/tech/meta-crush-saga.html)
 
-week 3 :
+week 3:
 
 * [Basic Git guide with main CLI commands](https://rogerdudler.github.io/git-guide/)
 * [Resources for Git and Github](https://try.github.io/)
@@ -27,3 +27,7 @@ week 3 :
 * [Git advices for new developers](https://codeburst.io/number-one-piece-of-advice-for-new-developers-ddd08abc8bfa)
 * [Why Git](https://www.atlassian.com/git/tutorials/why-git)
 * [Quora question: Why should I use Git?](https://www.quora.com/What-is-git-and-why-should-I-use-it)
+
+week 5:
+* [Static Libraries and Dynamic Libraries] (https://xiaoyuliu.github.io/2018/03/19/compare-static-and-dynamic-library/)
+* [C++14](https://isocpp.org/wiki/faq/cpp14-language)
