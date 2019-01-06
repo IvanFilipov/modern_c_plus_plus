@@ -72,18 +72,18 @@
 
 #### Language Features :
 
-* template argument deduction for class templates :warning:
+* template argument deduction for class templates :heavy_check_mark:
 * declaring non-type template parameters with auto :x:
-* folding expressions :warning:
-* new rules for auto deduction from braced-init-list :warning:
-* constexpr lambda :warning:
-* lambda capture this by value :warning:
-* inline variables :warning:
-* nested namespaces :x:
-* structured bindings :warning:
+* folding expressions :heavy_check_mark:
+* new rules for auto deduction from braced-init-list :heavy_check_mark:
+* constexpr lambda :heavy_check_mark:
+* lambda capture this by value :heavy_check_mark:
+* inline variables :heavy_check_mark:
+* nested namespaces :heavy_check_mark:
+* structured bindings :heavy_check_mark:
 * selection statements with initializer :x:
-* constexpr if :warning:
-* utf-8 character literals :warning:
+* constexpr if :heavy_check_mark:
+* utf-8 character literals :heavy_check_mark:
 * direct-list-initialization of enums :x:
 
 #### Library Features :
