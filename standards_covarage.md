@@ -54,12 +54,12 @@
 #### Language Features :
 
 * [binary literals](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B14/sequences_binary_literal.cpp) :heavy_check_mark:
-* generic lambda expressions :warning:
-* lambda capture initializers :warning:
+* generic lambda expressions :heavy_check_mark:
+* lambda capture initializers :heavy_check_mark:
 * [return type deduction](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp) :heavy_check_mark:
 * [decltype(auto)](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/auto_decltype.cpp):heavy_check_mark:
 * [relaxing constraints on constexpr functions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B14/constexpr.cpp) :heavy_check_mark:
-* variable templates :warning:
+* variable templates :heavy_check_mark:
 
 
 #### Library Features :
