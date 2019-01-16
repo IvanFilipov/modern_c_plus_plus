@@ -88,15 +88,15 @@
 
 #### Library Features :
 
-* std::variant :warning:
-* std::optional :warning:
+* std::variant :heavy_check_mark:
+* std::optional :heavy_check_mark:
 * std::any  :x:
 * std::string_view  :x:
 * std::invoke  :x:
 * std::apply  :x:
-* std::filesystem :warning:
-* std::byte :warning:
-* splicing for maps and sets :warning:
+* std::filesystem :heavy_check_mark:
+* std::byte :heavy_check_mark:
+* splicing for maps and sets :heavy_check_mark:
 * parallel algorithms :warning:
 
 
