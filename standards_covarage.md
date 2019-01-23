@@ -76,13 +76,13 @@
 * declaring non-type template parameters with auto :x:
 * folding expressions :heavy_check_mark:
 * new rules for auto deduction from braced-init-list :heavy_check_mark:
-* constexpr lambda :heavy_check_mark:
-* lambda capture this by value :heavy_check_mark:
+* [constexpr lambda](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/lambdas_constexpr.cpp) :heavy_check_mark:
+* [lambda capture this by value](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/lambdas_constexpr.cpp) :heavy_check_mark:
 * inline variables :heavy_check_mark:
 * nested namespaces :heavy_check_mark:
 * structured bindings :heavy_check_mark:
 * selection statements with initializer :x:
-* constexpr if :heavy_check_mark:
+* [constexpr if](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/lambdas_constexpr.cpp) :heavy_check_mark:
 * utf-8 character literals :heavy_check_mark:
 * direct-list-initialization of enums :x:
 
