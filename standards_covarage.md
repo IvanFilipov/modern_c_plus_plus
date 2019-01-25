@@ -74,7 +74,7 @@
 
 * template argument deduction for class templates :heavy_check_mark:
 * declaring non-type template parameters with auto :x:
-* folding expressions :heavy_check_mark:
+* [folding expressions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/fold_expr.cpp) :heavy_check_mark:
 * new rules for auto deduction from braced-init-list :heavy_check_mark:
 * [constexpr lambda](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/lambdas_constexpr.cpp) :heavy_check_mark:
 * [lambda capture this by value](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/lambdas_constexpr.cpp) :heavy_check_mark:
