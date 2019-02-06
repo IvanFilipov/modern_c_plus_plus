@@ -7,6 +7,8 @@ links :
 * [boost](https://www.boost.org/)
 * [modern C++ features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [left-leaning RB tree](http://www.cs.princeton.edu/~rs/talks/LLRB/RedBlack.pdf?fbclid=IwAR0i7KMRRVQJqXL8aRORCepeeCUbYht08rmPFXVQY7UmSFTGaE2qrTDbQT0)
+* [wxWidgets](https://www.wxwidgets.org/)
+* [openCV](https://opencv.org/)
 
 week 1:
 
