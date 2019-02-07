@@ -9,6 +9,7 @@ links :
 * [left-leaning RB tree](http://www.cs.princeton.edu/~rs/talks/LLRB/RedBlack.pdf?fbclid=IwAR0i7KMRRVQJqXL8aRORCepeeCUbYht08rmPFXVQY7UmSFTGaE2qrTDbQT0)
 * [wxWidgets](https://www.wxwidgets.org/)
 * [openCV](https://opencv.org/)
+* [SDL](https://www.libsdl.org/)
 
 week 1:
 
