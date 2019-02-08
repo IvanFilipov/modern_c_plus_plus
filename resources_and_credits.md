@@ -10,6 +10,7 @@ links :
 * [wxWidgets](https://www.wxwidgets.org/)
 * [openCV](https://opencv.org/)
 * [SDL](https://www.libsdl.org/)
+* [Qt](https://www.qt.io/developers/)
 
 week 1:
 
