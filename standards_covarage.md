@@ -72,30 +72,30 @@
 
 #### Language Features :
 
-* template argument deduction for class templates :heavy_check_mark:
+* [template argument deduction for class templates](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/features.cpp) :heavy_check_mark:
 * declaring non-type template parameters with auto :x:
 * [folding expressions](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/fold_expr.cpp) :heavy_check_mark:
 * new rules for auto deduction from braced-init-list :heavy_check_mark:
 * [constexpr lambda](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/lambdas_constexpr.cpp) :heavy_check_mark:
 * [lambda capture this by value](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/lambdas_constexpr.cpp) :heavy_check_mark:
-* inline variables :heavy_check_mark:
+* [inline variables](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/features.cpp) :heavy_check_mark:
 * nested namespaces :heavy_check_mark:
-* structured bindings :heavy_check_mark:
+* [structured bindings](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/features.cpp) :heavy_check_mark:
 * selection statements with initializer :x:
 * [constexpr if](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/lambdas_constexpr.cpp) :heavy_check_mark:
-* utf-8 character literals :heavy_check_mark:
+* [utf-8 character literals](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/features.cpp) :heavy_check_mark:
 * direct-list-initialization of enums :x:
 
 #### Library Features :
 
-* std::variant :heavy_check_mark:
-* std::optional :heavy_check_mark:
+* [std::variant](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/features.cpp) :heavy_check_mark:
+* [std::optional](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/features.cpp) :heavy_check_mark:
 * std::any  :x:
 * std::string_view  :x:
 * std::invoke  :x:
 * std::apply  :x:
 * std::filesystem :heavy_check_mark:
-* std::byte :heavy_check_mark:
+* [std::byte](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B17/features.cpp) :heavy_check_mark:
 * splicing for maps and sets :heavy_check_mark:
 * parallel algorithms :warning:
 
