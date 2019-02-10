@@ -35,3 +35,8 @@ week 3:
 week 5:
 * [Static Libraries and Dynamic Libraries](https://xiaoyuliu.github.io/2018/03/19/compare-static-and-dynamic-library/)
 * [C++14](https://isocpp.org/wiki/faq/cpp14-language)
+
+week 6:
+* [Booting](https://en.wikipedia.org/wiki/Booting)
+* [Booting-simple](https://www.quora.com/What-are-the-steps-of-the-boot-process-of-a-computer-from-power-to-userland)
+
