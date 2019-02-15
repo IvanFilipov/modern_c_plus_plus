@@ -93,6 +93,7 @@ _it will take at least 6 hours..._
 * example with HTTP server in C++, talking with DB and Web UI
 * example with openCV - creating an real time video chat
 
+## Week 8
 
 ### Topics included summary
 
