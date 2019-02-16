@@ -99,15 +99,17 @@ _around 5 hours_
   - Asynchronous programming
 
 ## Week 7
-_it will take at least 6 hours..._
+_around 3 hours_
 ### Networks and network programming
 * network in basics
 * socket based C example
-* DB basics
+- TODO: more details
+
 
 ## Week 8
 _around 5 hours_
 ### Full applications (examples)
+ * DB basics
  * example with HTTP server in C++, talking with DB and Web UI
  * example with openCV - creating an real time video chat
  * example with SDL
