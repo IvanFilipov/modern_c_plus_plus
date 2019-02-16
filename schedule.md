@@ -81,19 +81,36 @@ _around 3 hours_
 _around 5 hours_
 ### System programming and multithreading
 
-* everything about the hardware (but not in deep details)
-* everything about OS-es
-* parallel and multithreading stuff (basics)
+* from power ON to system starting (booting process)
+* a little bit about architectures (CPU (insides, cores, instructions), busses, memory)
+* brief discusion about OS-es:
+  - kernel
+  - what they do?
+  - rings
+  - processes
+  - a bit \*NIX stuff
+* shells
+* POSIX
+* multithreading:
+  - Concurrency vs Parallelism
+  - synchronization primitives
+  - some code examples with different API's:
+  -- TODO: describe them
+  - Asynchronous programming
 
 ## Week 7
 _it will take at least 6 hours..._
+### Networks and network programming
 * network in basics
 * socket based C example
 * DB basics
-* example with HTTP server in C++, talking with DB and Web UI
-* example with openCV - creating an real time video chat
 
 ## Week 8
+_around 5 hours_
+### Full applications (examples)
+ * example with HTTP server in C++, talking with DB and Web UI
+ * example with openCV - creating an real time video chat
+ * example with SDL
 
 ### Topics included summary
 
