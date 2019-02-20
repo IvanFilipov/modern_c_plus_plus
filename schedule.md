@@ -101,8 +101,9 @@ _around 5 hours_
 ## Week 7
 _around 3 hours_
 ### Networks and network programming
-* network in basics
-* socket based C example
+* network in basics (OSI model, protocols, etc.) 
+* how the web is working
+* Berkeley sockets - C example
 - TODO: more details
 
 
