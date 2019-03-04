@@ -95,8 +95,10 @@ _around 5 hours_
   - Concurrency vs Parallelism
   - synchronization primitives
   - some code examples with different API's:
-  -- TODO: describe them
+  POSIX (pthreads), C11, C++11
   - Asynchronous programming
+  - classical concurrency problems
+  - C++17 parallel struct/algo
 
 ## Week 7
 _around 3 hours_
