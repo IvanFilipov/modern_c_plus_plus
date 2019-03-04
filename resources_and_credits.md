@@ -40,3 +40,11 @@ week 6:
 * [Booting](https://en.wikipedia.org/wiki/Booting)
 * [Booting-simple](https://www.quora.com/What-are-the-steps-of-the-boot-process-of-a-computer-from-power-to-userland)
 
+* [Operating System Concepts](https://www.cs.rutgers.edu/~pxk/416/notes/03-concepts.html)
+* [Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))
+* [Monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel)
+* [Microkernel](https://en.wikipedia.org/wiki/Microkernel)
+
+* [pthreads](https://computing.llnl.gov/tutorials/pthreads/)
+
+
