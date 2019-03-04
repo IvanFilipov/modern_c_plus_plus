@@ -84,12 +84,12 @@ _around 5 hours_
 * from power ON to system starting (booting process)
 * a little bit about architectures (CPU (insides, cores, instructions), busses, memory)
 * brief discusion about OS-es:
-  - kernel
   - what they do?
+  - kernel
   - rings
   - processes
-  - a bit \*NIX stuff
-* shells
+  - system calls (a bit \*NIX stuff)
+  - shell
 * POSIX
 * multithreading:
   - Concurrency vs Parallelism
