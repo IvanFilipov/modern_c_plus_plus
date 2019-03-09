@@ -40,10 +40,17 @@ week 6:
 * [Booting](https://en.wikipedia.org/wiki/Booting)
 * [Booting-simple](https://www.quora.com/What-are-the-steps-of-the-boot-process-of-a-computer-from-power-to-userland)
 -------------------
+* [Motherboard](https://en.wikipedia.org/wiki/Motherboard)
+* [CPU](https://www.google.com/search?q=cpu+architecture&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtzoutuPXgAhUG0RoKHZBKBYkQ_AUIDigB&biw=1920&bih=969#imgrc=0uttZalM0-fEJM:)
+* [CPU-cores](https://www.google.com/search?biw=1920&bih=969&tbm=isch&sa=1&ei=h-SDXIKiAYnjgwfNyqDwDw&q=cpu+cores+architecture&oq=cpu+cores+architecture&gs_l=img.3...54691.56440..56549...3.0..0.80.669.9......1....1..gws-wiz-img.......0i7i30j0i8i7i30.QlWqAQr7jkY#imgrc=bp8lTAfvg5DOrM:)
+*  
+-------------------
 * [Operating System Concepts](https://www.cs.rutgers.edu/~pxk/416/notes/03-concepts.html)
 * [Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 * [Monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel)
 * [Microkernel](https://en.wikipedia.org/wiki/Microkernel)
+* [System calls](https://en.wikipedia.org/wiki/System_call)
+* [POSIX](https://en.wikipedia.org/wiki/POSIX)
 --------------------
 * [pthreads](https://computing.llnl.gov/tutorials/pthreads/)
 
