@@ -82,7 +82,12 @@ _around 5 hours_
 ### System programming and multithreading
 
 * from power ON to system starting (booting process)
-* a little bit about architectures (CPU (insides, cores, instructions), busses, memory)
+  - BIOS/UEFI
+  - bootloader
+* a little bit about architectures:
+  - motherboard, busses
+  - CPU insides -> cores, caches, instructions
+  - memory
 * brief discusion about OS-es:
   - what they do?
   - kernel
@@ -94,8 +99,10 @@ _around 5 hours_
 * multithreading:
   - Concurrency vs Parallelism
   - synchronization primitives
+  - green threads(fibers). Compare with other languages.
   - some code examples with different API's:
   POSIX (pthreads), C11, C++11
+  - thread pool 
   - Asynchronous programming
   - classical concurrency problems
   - C++17 parallel struct/algo
