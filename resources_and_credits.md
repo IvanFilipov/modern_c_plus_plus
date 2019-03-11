@@ -39,6 +39,8 @@ week 5:
 week 6:
 * [Booting](https://en.wikipedia.org/wiki/Booting)
 * [Booting-simple](https://www.quora.com/What-are-the-steps-of-the-boot-process-of-a-computer-from-power-to-userland)
+* [BIOS vs. UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
+* [bootloader](https://linuxhint.com/what-is-a-boot-loader/)
 -------------------
 * [Motherboard](https://en.wikipedia.org/wiki/Motherboard)
 * [CPU](https://www.google.com/search?q=cpu+architecture&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtzoutuPXgAhUG0RoKHZBKBYkQ_AUIDigB&biw=1920&bih=969#imgrc=0uttZalM0-fEJM:)
