@@ -45,15 +45,25 @@ week 6:
 * [Motherboard](https://en.wikipedia.org/wiki/Motherboard)
 * [CPU](https://www.google.com/search?q=cpu+architecture&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtzoutuPXgAhUG0RoKHZBKBYkQ_AUIDigB&biw=1920&bih=969#imgrc=0uttZalM0-fEJM:)
 * [CPU-cores](https://www.google.com/search?biw=1920&bih=969&tbm=isch&sa=1&ei=h-SDXIKiAYnjgwfNyqDwDw&q=cpu+cores+architecture&oq=cpu+cores+architecture&gs_l=img.3...54691.56440..56549...3.0..0.80.669.9......1....1..gws-wiz-img.......0i7i30j0i8i7i30.QlWqAQr7jkY#imgrc=bp8lTAfvg5DOrM:)
-*  
+*  [CPU-cache](https://en.wikipedia.org/wiki/CPU_cache)
 -------------------
 * [Operating System Concepts](https://www.cs.rutgers.edu/~pxk/416/notes/03-concepts.html)
 * [Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 * [Monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel)
 * [Microkernel](https://en.wikipedia.org/wiki/Microkernel)
 * [System calls](https://en.wikipedia.org/wiki/System_call)
+* [Fork](https://en.wikipedia.org/wiki/Fork_(system_call))
 * [POSIX](https://en.wikipedia.org/wiki/POSIX)
 --------------------
+* [Multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
+* [concurrency vs parallelism vs asynchronous](https://medium.com/swift-india/concurrency-parallelism-threads-processes-async-and-sync-related-39fd951bc61d)
 * [pthreads](https://computing.llnl.gov/tutorials/pthreads/)
+* [C thread API](https://en.cppreference.com/w/c/thread)
+* [C++ thread API](https://en.cppreference.com/w/cpp/thread)
+* [thread pool](http://raytracing-bg.net/lectures2018/rtbg2018-13.pdf) - go to multithreading coding section
+* [OpenMP](https://www.openmp.org/)
+* [OpenMP-guide](https://bisqwit.iki.fi/story/howto/openmp/)
+* [Async programming](https://luminousmen.com/post/asynchronous-programming-python3.5) _note: examples in python_
+* [C++17 parallel algo](https://devblogs.microsoft.com/cppblog/using-c17-parallel-algorithms-for-better-performance/)
 
 
