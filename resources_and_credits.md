@@ -65,5 +65,6 @@ week 6:
 * [OpenMP-guide](https://bisqwit.iki.fi/story/howto/openmp/)
 * [Async programming](https://luminousmen.com/post/asynchronous-programming-python3.5) _note: examples in python_
 * [C++17 parallel algo](https://devblogs.microsoft.com/cppblog/using-c17-parallel-algorithms-for-better-performance/)
+* [Classic Problems in Concurrency](http://cecs.wright.edu/~pmateti/Courses/7370/Lectures/Fundas/classics.html) 
 
 
