@@ -110,10 +110,11 @@ _around 5 hours_
 ## Week 7
 _around 3 hours_
 ### Networks and network programming
-* network in basics 
+* network basics: 
   -- physical devices 
   -- OSI model, protocols, TCP/IP stack 
 * how the web is working (local network, NAT, ...)
+* client-server model
 * Berkeley sockets - C example
 * Web communication protocols (Application level) 
 - TODO: more details
