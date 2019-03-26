@@ -111,8 +111,8 @@ _around 5 hours_
 _around 3 hours_
 ### Networks and network programming
 * network basics: 
-  -- physical devices 
-  -- OSI model, protocols, TCP/IP stack 
+  - physical devices 
+  - OSI model, protocols, TCP/IP stack 
 * how the web is working (local network, NAT, ...)
 * client-server model
 * Berkeley sockets - C example
@@ -128,9 +128,5 @@ _around 5 hours_
  * example with openCV - creating an real time video chat
  * example with SDL
 
-### Topics included summary
 
-~~templates, auto~~,~~range-based loops~~, ~~move semantics, smart pointers~~, ~~lambda expressions,~~
-multi threading, concurrency, networking, ~~STL data structures, STL algorithms,
-some advanced data structures and more~~.
 
