@@ -67,4 +67,6 @@ week 6:
 * [C++17 parallel algo](https://devblogs.microsoft.com/cppblog/using-c17-parallel-algorithms-for-better-performance/)
 * [Classic Problems in Concurrency](http://cecs.wright.edu/~pmateti/Courses/7370/Lectures/Fundas/classics.html) 
 
+week 7:
 
+* [OSI](https://en.wikipedia.org/wiki/OSI_model)
