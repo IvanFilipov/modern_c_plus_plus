@@ -70,3 +70,5 @@ week 6:
 week 7:
 
 * [OSI](https://en.wikipedia.org/wiki/OSI_model)
+* [UNIX sockets](http://www.tutorialspoint.com/unix_system_calls/socket.htm)
+* [WIN sockets](https://docs.microsoft.com/en-us/windows/desktop/api/_winsock/)
