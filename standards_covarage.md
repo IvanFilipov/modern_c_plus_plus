@@ -37,7 +37,9 @@
 
 * [std::move](https://github.com/IvanFilipov/modern_c_plus_plus/tree/master/C%2B%2B11/move_basics) :heavy_check_mark:
 * std::forward :warning:
-* std::thread :warning:
+* std::thread :heavy_check_mark:
+* std::async :heavy_check_mark:
+* std::future :heavy_check_mark:
 * [std::to_string](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2Bbasics/string_streams.cpp) :heavy_check_mark:
 * type traits :heavy_check_mark:
 * [smart pointers](https://github.com/IvanFilipov/modern_c_plus_plus/blob/master/C%2B%2B11/smart_ptr/smart_ptr_usage.cpp) :heavy_check_mark:
