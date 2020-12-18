@@ -1,4 +1,4 @@
-*for better describtions click [here](https://github.com/AnthonyCalandra/modern-cpp-features)*
+*for better descriptions click [here](https://github.com/AnthonyCalandra/modern-cpp-features)*
 
 ### C++ 11
 
